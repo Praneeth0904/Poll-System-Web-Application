@@ -1,6 +1,6 @@
 ---
 
-## 📌 Love Calculator
+## 📌 Poll System
 
 Allows users to vote and view poll results dynamically.
 
